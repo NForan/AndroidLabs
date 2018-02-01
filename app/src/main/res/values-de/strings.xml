@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Übung2</string>
     <string name="hello_message">"Guten Tag!</string>
-    <string name="ButtonText">"Ich bin ein Deutscher knopf </string>
+    <string name="ButtonText">"Ich bin ein knopf! </string>
+    <string name="LoginText">Anmeldung</string>
+    <string name="LoginNameText">Benutzername</string>
+    <string name="PasswordText">Passwort</string>
+    <string name="WhatDo">Was Macht Das?</string>
+    <string name="LoginHint">Benutzername</string>
+    <string name="RadioBtn">Radio Knopf</string>
+    <string name="CheckBox">Kontrollkästchen</string>
 </resources>
