@@ -1,13 +1,13 @@
-package lab1.nathan.com.androidlabs;
+package lab2.nathan.com.androidlabs;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class ListItemsActivity extends Activity {
+public class LoginActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_list_items);
+        setContentView(R.layout.activity_login);
     }
 }

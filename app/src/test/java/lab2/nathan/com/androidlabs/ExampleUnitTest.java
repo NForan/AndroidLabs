@@ -1,4 +1,4 @@
-package lab1.nathan.com.androidlabs;
+package lab2.nathan.com.androidlabs;
 
 import org.junit.Test;
 
